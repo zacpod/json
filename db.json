@@ -1,0 +1,22 @@
+{
+"panels": [
+    {
+      "id": 1,
+      "title": "Title one",
+      "updating": true,
+      "gridster": { "cols": 5, "rows": 3, "y": 0, "x": 0 }
+    },
+    {
+        "id": 2,
+        "title": "Title Two",
+        "updating": true,
+        "gridster": { "cols": 5, "rows": 3, "y": 0, "x": 3 }
+    },
+    {
+        "id": 3,
+        "title": "Title Three",
+        "updating": true,
+        "gridster": { "cols": 5, "rows": 3, "y": 0, "x": 6 }
+    }
+]
+}
